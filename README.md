@@ -1,5 +1,5 @@
 # Cyberpunk2077Autocrafter
-Simple AutoHotkey file for autocrafting in Cyberpunk 2077. Bound to Numpad 1 be default.
+Simple AutoHotkey file for autocrafting in Cyberpunk 2077. Bound to Numpad 1 by default.
 Requires AutoHotkey program. 
 Download AutoHotkey and the .ahk file. 
 Run the .ahk file.
